@@ -34,6 +34,18 @@
   "ios": {
     "icons": [
       {
+        "file": "icon-20.png",
+        "dimension": 20
+      },
+      {
+        "file": "icon-20@2x.png",
+        "dimension": 40
+      },
+      {
+        "file": "icon-20@3x.png",
+        "dimension": 60
+      },
+      {
         "file": "icon-40.png",
         "dimension": 40
       },
